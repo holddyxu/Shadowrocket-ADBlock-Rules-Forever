@@ -458,3 +458,9 @@ mc-heads.net
 # 越狱下载源加速
 apt.thebigboss.org
 repo.chariz.com
+
+# pt走代理
+fsm.name
+u2.dmhy.org
+star-space.net
+dmhy.org
